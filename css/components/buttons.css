@@ -1,0 +1,15 @@
+.btn-primary {
+    color: white;
+    padding: 15px 25px;
+    border-radius: 4px;
+    font-weight: bold;
+    background: #3f3d56;
+    transition: 0.3s ease;
+}
+
+.btn-primary:hover {
+    opacity: 1;
+    background: #585577;
+    text-decoration: none;
+    color: white;
+}

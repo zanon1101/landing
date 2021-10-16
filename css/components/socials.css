@@ -1,0 +1,25 @@
+.footer {
+    background-color: #3f3d56;
+    text-align: center;
+    padding: 60px;
+}
+
+.links {
+    /* text-align: center; */
+    display: inline-block;
+}
+
+.fa-fw {
+    color: white;
+    font-size: 30px;
+    width: 1.25em;
+
+}
+
+.fa-fw:hover{
+    color: gray;
+}
+
+.links p {
+    color: white;
+}
